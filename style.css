@@ -1,0 +1,19 @@
+h1 {
+    text-align:center;
+}
+
+img {
+    display: block;
+    margin:auto;
+}
+
+#contents {
+
+    display:block;
+    margin:auto;
+    margin-top: 2rem;
+    width: min(70%,300px);
+    height: 300px;
+    border: 1px solid black;
+    text-align: left;
+}

@@ -1,0 +1,31 @@
+header {
+    text-align: right;
+    position: fixed;
+    height: 2rem;
+    width:100%;
+    line-height: 2rem;
+    left:0px;
+    top:0px;
+    background-color: lightgray;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin:auto;
+    width:400px;
+}
+
+#contents {
+
+    display:block;
+    margin:auto;
+    padding: 1rem;
+    margin-top: 2rem;
+    width: max(70%,400px);
+    border: 1px solid black;
+    text-align: left;
+}
